@@ -1,0 +1,28 @@
+
+p {
+  font-size: largeer; /* Console warning: Invalid property value */
+}
+
+h1 {
+  fontsize: 23xp;
+  color: purple;
+}
+
+.contianer {
+  colro: red;
+  width: 500px;
+  height: 500px;
+  /* background should be the same as #output */
+  background-color: #f3SupeCoolColor;
+}
+
+#output {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+  pudding: 10px;
+  border: 1px solid #000;
+  background-color: #f0f0f0;
+}
