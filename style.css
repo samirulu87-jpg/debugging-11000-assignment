@@ -1,19 +1,19 @@
 
 p {
-  font-size: largeer; /* Console warning: Invalid property value */
+  font-size: larger; /* the word largeer was spelled incorect, fixed the spelling to larger*/
 }
 
 h1 {
-  fontsize: 23xp;
+  font-size: 23xp; /* Fontsize needs a dash between the words, added missing dash*/ 
   color: purple;
 }
 
-.contianer {
-  colro: red;
+.container /*fixed spelling of contianer to container*/ {
+  color: red; /* colro is spelled wrong, fixed spelling to color*/
   width: 500px;
   height: 500px;
   /* background should be the same as #output */
-  background-color: #f3SupeCoolColor;
+  background-color: #f0f0f0; /* wrong color input, should be #f0f0f0 instead of #f3SupeCoolColor, added the correct color input*/
 }
 
 #output {
@@ -22,7 +22,7 @@ h1 {
   font-weight: bold;
   text-align: center;
   margin-top: 20px;
-  pudding: 10px;
+  padding: 10px; /*pudding is spelled incorectly, fixed the spelling to padding*/
   border: 1px solid #000;
   background-color: #f0f0f0;
 }
